@@ -1,0 +1,3 @@
+RL: Reinforcement learning is a type of machine 
+learning method where an intelligent agent interacts 
+with the environment and learns to act within that.
